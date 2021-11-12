@@ -54,7 +54,7 @@ cout<<"\nplayer-2 Enter your name =>";
         cin>>clue;   	
  a:
 
-cout<<endl<<player_1.name<<" Enter word => "; //enter he word the word tha is ging to be guessed
+cout<<endl<<player_1.name<<" Enter word => "; //enter  the word tha is going to be guessed
 cin>>word;
  
 int word_length=strlen(word);
